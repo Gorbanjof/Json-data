@@ -1,0 +1,56 @@
+[
+
+  {
+
+    "stad": "Brussel",
+
+    "land": "Belgie",
+
+    "bevolking": "11 000 000",
+    
+    "bezienswaardigheden": "Manneke pis"
+  },
+
+  
+  {
+
+    "stad": "Parijs",
+
+    "land": "Frankrijk",
+
+    "bevolking": "1 000 000",
+    
+    "bezienswaardigheden": "Eifeltoren"
+    
+  },
+
+  
+  {
+
+    "stad": "Londen",
+
+    "land": "Verenigd-koninkrijk",
+
+    "bevolking": "1 200 000",
+    
+    "bezienswaardigheden": "London-bridge"
+    
+  },
+
+  
+  {
+
+    "stad": "Rome",
+
+    "land": "Italie",
+
+    "bevolking": "845 000",
+    
+    "bezienswaardigheden": "Colliseum"
+    
+  }
+
+
+
+
+]
